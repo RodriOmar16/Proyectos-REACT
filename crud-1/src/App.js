@@ -1,4 +1,6 @@
 import React from 'react'
+import index from './index.css'
+import TableUser from './components/Table';
 
 function App() {
   return (
@@ -10,6 +12,7 @@ function App() {
         </div>
         <div className='flex-large'>
           <h2>View users</h2>
+          <TableUser/>
         </div>
       </div>
     </div>
