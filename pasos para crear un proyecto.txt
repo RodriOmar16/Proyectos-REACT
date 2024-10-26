@@ -1,1 +1,4 @@
 1. npx create-react-app nombre-del-proyecto
+2. npm install react-router-dom
+3. npm install react-hook-form
+4. npm install bootstrap
